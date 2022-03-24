@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "deeptools":{
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "better_stone_tools:hoe/deepslate_hoe"
+            }
+        }
+    },
+    "rewards": {
+        "function": "better_stone_tools:hoe/give_deep_hoe"
+    }
+}

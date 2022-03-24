@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "deeptools":{
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "better_stone_tools:sword/deepslate_sword"
+            }
+        }
+    },
+    "rewards": {
+        "function": "better_stone_tools:sword/give_deep_sword"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "deeptools":{
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "better_stone_tools:axe/blackstone_axe"
+            }
+        }
+    },
+    "rewards": {
+        "function": "better_stone_tools:axe/give_black_axe"
+    }
+}

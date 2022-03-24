@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "deeptools":{
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "better_stone_tools:shovel/blackstone_shovel"
+            }
+        }
+    },
+    "rewards": {
+        "function": "better_stone_tools:shovel/give_black_shovel"
+    }
+}

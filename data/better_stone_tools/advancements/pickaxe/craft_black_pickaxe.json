@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "deeptools":{
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "better_stone_tools:pickaxe/blackstone_pickaxe"
+            }
+        }
+    },
+    "rewards": {
+        "function": "better_stone_tools:pickaxe/give_black_pickaxe"
+    }
+}
