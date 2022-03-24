@@ -1,4 +1,4 @@
-# better-stone-tools
+# Better Stone Tools
  
 Allows you to craft 2 different types of stone tools with blackstone and deeplate.
 
