@@ -1,6 +1,6 @@
 # Better Stone Tools
 
-[![status](https://i.imgur.com/v1lBruN.png)]()
+[![Status](https://img.shields.io/badge/Status-Inactive-lightgrey.svg)]()
  
 Allows you to craft 2 different types of stone tools with blackstone and deeplate.
 
